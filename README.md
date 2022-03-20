@@ -32,6 +32,6 @@ These instructions are for a windows computer, you may need to change the comman
 See the showcase video for a better tutorial.
 
 # To do
-1. Create website/desktop app to replace cli
+1. -In the works - Create website/desktop app to replace cli 
 2. Improve dataset accuracy
 3. When more accurate, implement dataset
