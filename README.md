@@ -1,6 +1,7 @@
 # recycling-identifier
 There are 2 parts to this project **ML** (the machine learning bit) and **cli** (the interactive bit).
 Currently the dataset for the machine learning section is not very accurate (~30%) because I don't have enough data. Therefore, I have decided to leave this bit out of the current build. This code will run on any machine including a raspberry pi, mac and windows computer.
+There is a website in the **very** early stages (it's just a header) found at github.com/PaddyCooper08/rf-website
 
 # Getting started
 These instructions are for a windows computer, you may need to change the commands to match your os.
